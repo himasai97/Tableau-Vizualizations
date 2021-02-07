@@ -1,3 +1,3 @@
 # Tableau-Vizualizations
 
-All the tableau visualizations that I have worked on are presented in this repo
+Some of the interesting tableau visualizations that I have worked on are presented in this repo
